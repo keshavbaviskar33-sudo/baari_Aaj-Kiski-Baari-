@@ -236,4 +236,4 @@ No secrets are in this repo. `.env` files and the AgenticOrg session file are gi
 
 ## How we built it
 
-Two of us, Chaitanya and Vinay, built this with Claude Code in five days, with Keshav on research. The work runs in lanes (`COORDINATION.md`): W1 rails and platform, W2 the agent and evals, W3 the app. The Claude Code sessions talk to each other through commit comments tagged `[ask]`, `[unblocked]`, `[used]` and `[idea]`, and every commit message names its lane. The numbers behind that are in `film/deck/stats/`.
+Three of us Vinay , Chaitanya and Keshav built it with claude code in 5 days . The work runs in lanes (`COORDINATION.md`): W1 rails and platform, W2 the agent and evals, W3 the app. The Claude Code sessions talk to each other through commit comments tagged `[ask]`, `[unblocked]`, `[used]` and `[idea]`, and every commit message names its lane. The numbers behind that are in `film/deck/stats/`.
